@@ -43,3 +43,5 @@ This script is licensed under the [MIT License](LICENSE).
 
 Feel free to fork, contribute, or provide feedback on the script.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U621SO3)
+
