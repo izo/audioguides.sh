@@ -35,7 +35,7 @@ You can customize the script by modifying the functions and adding your own comm
 
 ## License
 
-This script is licensed under the [MIT License](LICENSE).
+This script is licensed under the [GPL-3.0 License](LICENSE).
 
 ## Author
 
